@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.RelativeLayout;
 
-
+//hello
 public class MainActivity extends AppCompatActivity {
     int i;
     RelativeLayout layout;
